@@ -1,0 +1,6 @@
+{
+  "name": "HACKRS x402 Carousel Creator",
+  "description": "Un carrusel de diapositivas interactivo y exportable a PDF sobre el estándar de pagos x402 con estilo ciberpunk y logotipo de HACKRS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
